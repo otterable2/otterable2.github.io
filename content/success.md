@@ -1,6 +1,10 @@
 ---
-title:  Success :)
+title: 
 image:  '/otterferret1.jpg'
 ---
 
-### Thank you very much for your purchase. I'll get to your request in matter of no time.
+![OtterLove](/otterferret1.jpg)
+
+Thank you very much for reaching out. I'll read your message soon enough.
+
+- Otter 
