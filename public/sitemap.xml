@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://otterable2.github.io/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>http://otterable2.github.io/contact/</loc>
   </url><url>
