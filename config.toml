@@ -1,7 +1,7 @@
 baseURL = 'http://otterable2.github.io'
 languageCode = 'en-us'
-title = ''
-theme = 'maverick'
+title = 'Ermine.eu - The Otter Principles'
+theme = ''
 
 # Main Menu
 [menu]

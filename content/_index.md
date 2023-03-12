@@ -1,6 +1,4 @@
 ---
-title: About
-image:  '/artAW.png'
 ---
 ![Poster](/poster.png)
 
