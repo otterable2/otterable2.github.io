@@ -1,4 +1,4 @@
-baseURL = 'http://otterable2.github.io'
+baseURL = 'https://otterable2.github.io'
 languageCode = 'en-us'
 title = 'Ermine.eu - The Otter Principles'
 theme = 'maverick'
