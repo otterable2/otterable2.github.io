@@ -7,7 +7,7 @@ theme = 'maverick'
 [menu]
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
+    name = "> Contact"
     url = "/contact"
     weight = 1
 	
