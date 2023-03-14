@@ -13,6 +13,6 @@ theme = 'maverick'
 	
   [[menu.main]]
     identifier = "Author site"
-    name = "Author site"
+    name = "> Author site"
     url = "https://ermine.de"
     weight = 3
